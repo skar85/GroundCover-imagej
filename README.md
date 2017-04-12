@@ -1,5 +1,6 @@
 # GroundCover-imagej
 Macro developed to generate quantitative data of ground coverage photos using imagej. Information about crop ground cover as a phenotypic measurement can be found in CIMMYT's [Physiological Breeding II Guide](https://books.google.co.uk/books?id=lYVL-db0AtQC&pg=PA46), where an Adobe Photoshop image processing method is explained. This macro intend to replicate the same pipeline using an opensource software (i.e. ImageJ).
+
 [_*If you end up publishing data using this macro remember to at least cite ImageJ as a way to support opensource projects*_](https://imagej.net/Citing)
 
 ## Instructions
@@ -18,4 +19,6 @@ Macro developed to generate quantitative data of ground coverage photos using im
 ![Figure 2](/Images/Fig2.jpg)
 
 ## Results
+Shadows doesn't seem to have a significant effect, as seen in Fig3.
+### Figure 3
 ![Figure 3](/Images/Fig3.jpg)
